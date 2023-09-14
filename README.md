@@ -2,4 +2,4 @@
 <h1>GITHUB</h1>
 This is my second git repository
 <br>
-Author : martinfrancisgeorge
+Author : martinfrancisgeorge(Asten Martin)
